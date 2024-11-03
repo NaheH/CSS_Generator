@@ -49,7 +49,7 @@ Ajout d’une interface utilisateur.
 Support de formats d’images multiples : Supporter d’autres formats d’image en plus du PNG.
 Fonctionnalité de prévisualisation : Permettre aux utilisateurs de visualiser le sprite avant de le télécharger.
 
-**Auteure**
+
 Projet réalisé par Nahé Hutin. Ce projet a été développé en deux semaines dans le cadre d'un projet école pour explorer les possibilités de PHP dans la manipulation d'images et la génération de CSS.
 
 
