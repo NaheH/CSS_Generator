@@ -27,33 +27,29 @@ Il suffit d'ajouter le script dans le même dossier que les images à organiser 
 ### Étapes d'installation
 
 1. **Cloner le dépôt** :
-   ```bash
+```bash
    git clone https://github.com/votre-utilisateur/sprite-generator.git
-    ```
+```
 2 . ** Accéder au projet** :
-
-  ```bash
+```bash
     cd sprite-generator
-  ```
+```
 
 3. **Utilisation** :
-    ```bash
-    php css_generator.php
-    ```
+```bash
+php css_generator.php
+```
 Cette commande génère : 
 Une image de sprite (sprite.png).
 Un fichier CSS (sprite.css) qui mappe chaque image individuelle au sprite.
 
-Défis rencontrés
 
-Génération du CSS dynamique : Le calcul précis des positions de chaque image dans le sprite et leur génération automatique en CSS a été un défi technique.
-
-Améliorations possibles
+**Améliorations possibles**
 Ajout d’une interface utilisateur.
 Support de formats d’images multiples : Supporter d’autres formats d’image en plus du PNG.
 Fonctionnalité de prévisualisation : Permettre aux utilisateurs de visualiser le sprite avant de le télécharger.
 
-Auteure
-Projet réalisé par [Nahé Hutin]. Ce projet a été développé en deux semaines dans le cadre d'un projet école pour explorer les possibilités de PHP dans la manipulation d'images et la génération de CSS.
+**Auteure**
+Projet réalisé par Nahé Hutin. Ce projet a été développé en deux semaines dans le cadre d'un projet école pour explorer les possibilités de PHP dans la manipulation d'images et la génération de CSS.
 
 
